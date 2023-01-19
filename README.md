@@ -38,6 +38,25 @@ wordlist
   
   
   so first 301 wordlist(raft folder) + universal wordlist + tecnology wordlist
+  
   site cusotm + extension wordlist + java wodlist
   
+  
+  - directory 
+    - https://wordlists-cdn.assetnote.io/data/manual/raft-large-directories.txt
+    - https://github.com/six2dez/OneListForAll/blob/main/dict/dirbuster-dirs_long.txt
+
+- tecnology 
+  - https://github.com/iustin24/chameleon/blob/master/config.toml 
+  - also https://github.com/six2dez/OneListForAll/tree/main/dict
+  - cms https://github.com/tk-t0n0y/wordlists
+  
+  - 301 got 
+    - search 301 after content here https://github.com/six2dez/OneListForAll/tree/main/dict
+    
+  - universal
+    -  https://github.com/six2dez/OneListForAll/blob/main/dict/fuzz_content_long.txt
+    - leaky paths
+    - robot disallowed
+    - https://github.com/six2dez/OneListForAll/blob/main/dict/fuckyou_short.txt + https://github.com/six2dez/OneListForAll/blob/main/dict/fuzz-bo0om_short.txt combination
   
