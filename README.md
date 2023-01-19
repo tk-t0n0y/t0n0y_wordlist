@@ -60,3 +60,5 @@ wordlist
     - robot disallowed
     - https://github.com/six2dez/OneListForAll/blob/main/dict/fuckyou_short.txt + https://github.com/six2dez/OneListForAll/blob/main/dict/fuzz-bo0om_short.txt combination
   
+extenaion conten 
+ - php look https://github.com/six2dez/OneListForAll/tree/main/dict
