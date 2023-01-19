@@ -62,3 +62,4 @@ wordlist
   
 extenaion conten 
  - php look https://github.com/six2dez/OneListForAll/tree/main/dict
+ - https://wordlists.assetnote.io/
