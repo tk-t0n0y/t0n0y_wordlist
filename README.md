@@ -49,7 +49,7 @@ wordlist
 - tecnology 
   - https://github.com/iustin24/chameleon/blob/master/config.toml 
   - also https://github.com/six2dez/OneListForAll/tree/main/dict
-  - cms https://github.com/tk-t0n0y/wordlists
+  - **cms** https://github.com/tk-t0n0y/webapp-wordlists
   
   - 301 got 
     - search 301 after content here https://github.com/six2dez/OneListForAll/tree/main/dict
