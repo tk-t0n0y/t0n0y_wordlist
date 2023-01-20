@@ -63,3 +63,15 @@ wordlist
 extenaion conten 
  - php look https://github.com/six2dez/OneListForAll/tree/main/dict
  - https://wordlists.assetnote.io/
+
+https://github.com/Karanxa/Bug-Bounty-Wordlists
+
+
+
+wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/fuckyou_short.txt
+wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/fuzz-bo0om_short.txt 
+wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/fuzz_content_long.txt
+wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/robotsdisallowed_long.txt
+wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/all_content_long.txt 
+wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/content_discovery_all_long.txt
+
