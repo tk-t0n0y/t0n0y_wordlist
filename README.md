@@ -75,3 +75,5 @@ wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/robotsdis
 wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/all_content_long.txt 
 wget https://raw.githubusercontent.com/six2dez/OneListForAll/main/dict/content_discovery_all_long.txt
 
+https://github.com/orwagodfather/WordList
+
